@@ -6,6 +6,9 @@ This week's Challenge requires you to modify starter code to create an applicati
 
 The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
 
+
+image.png
+
 ## User Story
 
 ```
